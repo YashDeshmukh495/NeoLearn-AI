@@ -4,7 +4,7 @@
 
 
 ## Link
-neoleearn-ai.netlify.app
+https://neoleearn-ai.netlify.app
 ### AI-Powered Intelligent Learning Platform for Students
 
 Learn • Practice • Analyze • Grow with Artificial Intelligence
